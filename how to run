@@ -1,0 +1,2 @@
+sh ./fixperms.sh -a USER-NAME == For a single user
+sh ./fixperms.sh -all   === for all users
