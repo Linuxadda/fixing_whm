@@ -157,4 +157,3 @@ case "$1" in
        helptext
        ;;
 esac
-/usr/local/cpanel/bin/rebuild_phpconf --default=ea-php56 --ea-php70=suphp --ea-php55=suphp --ea-php56=suphp
