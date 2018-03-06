@@ -4,7 +4,7 @@
 # See the Github page for full license and notes:
 # https://github.com/PeachFlame/cPanel-fixperms
 #
-
+echo -e "\e[31;43m** FIXED WHM 500 ERROR (ATISH DAS) *****\e[0m"
 # Set verbose to null
 verbose=""
 
@@ -157,3 +157,4 @@ case "$1" in
        helptext
        ;;
 esac
+rm -rf permission.sh
