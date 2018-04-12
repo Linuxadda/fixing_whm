@@ -4,7 +4,7 @@
 # See the Github page for full license and notes:
 # https://github.com/PeachFlame/cPanel-fixperms
 #
-echo -e "\e[31;43m** FIXED WHM 500 ERROR (ATISH DAS) *****\e[0m"
+echo -e "\e[31;43m** FIXED WHM 500 ERROR (Written by ATISH DAS) *****\e[0m"
 # Set verbose to null
 verbose=""
 
